@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brynhr
-- 👀 I’m interested in C#, Java, finance, AI and graphics
-- 🌱 I’m currently learning Java microservices and team leadership
+- 👀 I’m interested in C#, Java, finance, AI, graphics and team leadership
+- 🌱 I’m currently learning Java microservices.
 - 📫 How to reach me: Long arms
 
 <!---
